@@ -6,5 +6,5 @@ services:
     restart: always
     ports:
       - '5005:5005'
-      -
+
 
